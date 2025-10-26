@@ -64,7 +64,7 @@
     "solid-styled-components": "^0.28.5",
     "solid-transition-group": "^0.3.0",
     "typescript": "^5.9.2",
-    "vite": "^7.0.6",
+    "vite": "^7.0.8",
     "vite-plugin-solid": "^2.11.8"
   },
   "typedoc": {
